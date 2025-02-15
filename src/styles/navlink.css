@@ -2,10 +2,10 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    background-color: rgb(234, 76, 71);
+    background-color: aquamarine;
 }
 img{
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 5px;
 }
 .navlinks ul{
